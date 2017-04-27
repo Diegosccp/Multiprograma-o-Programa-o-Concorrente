@@ -1,7 +1,9 @@
-# Diego Miranda   GTI Módulo III – Noturno
-Multiprogramação-Programação-Concorrente
-  
-  Mutiprogramação
+# Multiprogramação-Programação-Concorrente
+
+ 
+Diego Miranda   GTI Módulo III – Noturno
+ 
+ Mutiprogramação
   
  Um conceito fundamental em sitemas operacionais é o conceito de processo,um processo é basicamente um programa em execução,
 ele consiste em um programa executável, os seus dados e pilha, o seu stack pointer e registradores,enfim todas as informações 
